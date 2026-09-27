@@ -1,0 +1,6 @@
+url: https://github.com/rajpaulsingh6-stack/dsh-genoffice-captain
+name: rajpaulsingh6-stack/dsh-genoffice-captain
+category: workflow
+description:
+  en: 'When a session invokes the GenOffice task-list skills, launches GenOffice for solo work or opens a DESIGNATE THE CAPTAIN pane with a No Orchestration switch and a session dropdown; designating stars that session, tells it it is the Captain and launches GenOffice. Bundles both skills.'
+tarball: https://github.com/rajpaulsingh6-stack/dsh-genoffice-captain/releases/latest/download/dsh-genoffice-captain.tgz
